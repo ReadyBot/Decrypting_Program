@@ -2,7 +2,7 @@ Welcome to Cracker! v1.0
 
 WHAT IS CRACKER?
 This program will crack passwords hashed by "crypt 3", with salt and
-MD5. The assignment asked for a code to decrypt by using a dictionary attack 
+MD5. It tries to crack/decrypt hashed passwords by using a dictionary attack 
 and a bruteforce attack. 
 
 In this program, the user can uncrypt hash inputs by activating the program
